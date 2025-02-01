@@ -15,3 +15,4 @@ git log -> mostra todos os commits realizados
 7. git commit -m "mensagem"
 8. git status
 9. volta para o passo 3
+
