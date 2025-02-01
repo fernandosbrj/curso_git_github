@@ -1,0 +1,4 @@
+ls - lista arquivos
+cd - move entre diretórios
+pwd - mostra diretório atual
+cat <nome do arquivo> - mostra o que tem no arquivo
