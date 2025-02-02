@@ -1,13 +1,13 @@
-git init . -> cria um repo git na pasta atual
-git status -> mostra o status do trabalho (de cada arquivo alterado)
+git init .   -> cria um repo git na pasta atual
+git status   -> mostra o status do trabalho (de cada arquivo alterado)
 git add nome_arquivo -> adiciona arquivo para ser commitado
 git add nome_arquivo_* -> adiciona todos os arquivos que comecem com "nome_arquivo_"
-git add . -> adiciona todos os arquivos da pasta ao "stage"
+git add .    -> adiciona todos os arquivos da pasta ao "stage"
 git commit -m "mensagem" -> faz commit do que estava para ser commitado
-git log -> mostra todos os commits realizados
+git log      -> mostra todos os commits realizados
 git reset <nome arquivo> -> retira o arquivo desejado do estado de "stage", ou seja, após o git add. 
 git diff <nome arquivo> -> mostra o que tem de diferente entre o arquivo no estado atual e no último commit
-git diff . -> idem anterior, mas entre todos os arquivos da pasta
+git diff .   -> idem anterior, mas entre todos os arquivos da pasta
 
 # FLUXO DE TRABALHO
 
